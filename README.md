@@ -1,5 +1,6 @@
-Branch logs go on this line.... Feature A is awesome.
+Branch logs: Feature B is even more awesome than feature A.
 
 [Branches]
 main
 feature A
+feature B

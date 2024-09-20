@@ -1,5 +1,4 @@
-Branch logs go on this line.... Feature A is awesome.
+Branch logs go on this line.... Main branch is the best!
 
 [Branches]
 main
-feature A

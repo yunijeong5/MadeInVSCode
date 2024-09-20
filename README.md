@@ -1,4 +1,4 @@
-Branch logs: Feature D is even more awesome than feature A or feature B or feature D.
+Branch logs: Feature D ihan feature A or feature B or feature D.
 
 [Branches]
 main

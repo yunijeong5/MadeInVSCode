@@ -1,7 +1,4 @@
-Branch logs: Feature C is even more awesome than feature A or feature B.
+Logs: main is the best
 
 [Branches]
 main
-feature A
-feature B
-feature C

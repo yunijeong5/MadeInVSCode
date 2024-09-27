@@ -1,5 +1,3 @@
-# Lab 2: git fetch, pull, push
+# Lab 2: more git commands!
 
-Git pull = git fetch + git merge
-
-text from local
+Text from local-A

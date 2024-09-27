@@ -1,3 +1,3 @@
-# Some new title!
+# Lab 2: more git commands!
 
-random text!
+We covered git clone, git fetch, git pull, and git push

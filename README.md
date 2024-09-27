@@ -1,6 +1,3 @@
-# Lab 2: more git commands!
+# Some new title!
 
-Text from local-A
-
-
-Text from remote local-A
+random text!
